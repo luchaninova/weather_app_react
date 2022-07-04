@@ -1,0 +1,10 @@
+.Weather .current-city-details-temperature {
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.Weather .current-city-details-units {
+  position: relative;
+  top: -20px;
+}

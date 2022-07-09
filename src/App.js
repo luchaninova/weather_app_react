@@ -1,5 +1,6 @@
 import Search from "./Search";
 import Weather from "./Weather";
+import Author from "./Author";
 
 import "./App.css";
 
@@ -12,6 +13,7 @@ function App() {
             <div className="wrapper">
               <Search />
               <Weather />
+              <Author />
             </div>
           </div>
         </div>
